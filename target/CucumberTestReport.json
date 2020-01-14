@@ -1,0 +1,244 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-01-14T11:33:41.342Z",
+        "before": [
+          {
+            "result": {
+              "duration": 379500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ServiceHooks.initializeTest()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "Scenario Outline Row 1",
+        "description": "",
+        "id": "scenario-outlines-feature-file;\u003cscen-out-row-num\u003e;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 27800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ServiceHooks.embedScreenshot(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1230700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Step from \u0027Scenario Outline Row 1\u0027 in \u0027scenario-outlines\u0027 feature file",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Scenario Outline Row 1\u0027",
+                  "offset": 10
+                },
+                {
+                  "val": "\u0027scenario-outlines\u0027",
+                  "offset": 38
+                }
+              ],
+              "location": "StepDefinitions.step(String,String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-01-14T11:33:41.342Z",
+        "before": [
+          {
+            "result": {
+              "duration": 371900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ServiceHooks.initializeTest()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "Scenario Outline Row 2",
+        "description": "",
+        "id": "scenario-outlines-feature-file;\u003cscen-out-row-num\u003e;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 18100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ServiceHooks.embedScreenshot(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 986000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Step from \u0027Scenario Outline Row 2\u0027 in \u0027scenario-outlines\u0027 feature file",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Scenario Outline Row 2\u0027",
+                  "offset": 10
+                },
+                {
+                  "val": "\u0027scenario-outlines\u0027",
+                  "offset": 38
+                }
+              ],
+              "location": "StepDefinitions.step(String,String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Scenario Outlines feature file",
+    "description": "",
+    "id": "scenario-outlines-feature-file",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/resources/features/scenario-outlines.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-01-14T11:33:41.342Z",
+        "before": [
+          {
+            "result": {
+              "duration": 327200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ServiceHooks.initializeTest()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Scenario Number One",
+        "description": "",
+        "id": "scenarios-feature-file;scenario-number-one",
+        "after": [
+          {
+            "result": {
+              "duration": 19500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ServiceHooks.embedScreenshot(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1463700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Step from \u0027Scenario 1\u0027 in \u0027scenarios\u0027 feature file",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Scenario 1\u0027",
+                  "offset": 10
+                },
+                {
+                  "val": "\u0027scenarios\u0027",
+                  "offset": 26
+                }
+              ],
+              "location": "StepDefinitions.step(String,String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-01-14T11:33:41.342Z",
+        "before": [
+          {
+            "result": {
+              "duration": 370700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ServiceHooks.initializeTest()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Scenario Number Two",
+        "description": "",
+        "id": "scenarios-feature-file;scenario-number-two",
+        "after": [
+          {
+            "result": {
+              "duration": 244000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "ServiceHooks.embedScreenshot(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 633900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Step from \u0027Scenario 2\u0027 in \u0027scenarios\u0027 feature file",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\u0027Scenario 2\u0027",
+                  "offset": 10
+                },
+                {
+                  "val": "\u0027scenarios\u0027",
+                  "offset": 26
+                }
+              ],
+              "location": "StepDefinitions.step(String,String)"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Scenarios feature file",
+    "description": "",
+    "id": "scenarios-feature-file",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/resources/features/scenarios.feature",
+    "tags": []
+  }
+]
